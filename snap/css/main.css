@@ -1,0 +1,33 @@
+table {
+    width: 500px;
+    height: 400px;
+    background-color: #ebf2ff;
+    border: dashed;
+    position: absolute;
+    left: 30%;
+    top:15%;
+}
+table td {
+    width: 50px;
+    height: 40px;
+}
+
+.tdscolor {
+    background-color: #0edd15;
+}
+.foodscolor {
+    background: url("../pic/egg.png") no-repeat center;
+}
+
+.tdheadup {
+    background: url("../pic/snapheadup.png") no-repeat center;
+}
+.tdheaddown {
+    background: url("../pic/snapheaddown.png") no-repeat center;
+}
+.tdheadleft {
+    background: url("../pic/snapheadleft.png") no-repeat center;
+}
+.tdheadright {
+    background: url("../pic/snapheadright.png") no-repeat center;
+}
